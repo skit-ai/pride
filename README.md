@@ -1,6 +1,6 @@
 # pride :rainbow_flag:
 
-Simple pride top ribbon like below:
+Simple _pride rainbow_ top ribbon.
 
 ![](./screen.png)
 
